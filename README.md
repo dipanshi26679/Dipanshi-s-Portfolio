@@ -18,13 +18,9 @@ Build a React website in 24 hours to showcase the following:
 * HTML5
 * CSS3
 * JavaScript (ES6)
-* SCSS
 * Git
 * GitHub
 * React
-* Webpack
-* Bulma
-* Node JS
-* Babel
+
 
 
