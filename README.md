@@ -1,4 +1,4 @@
-# Project-05
+![first](https://github.com/dipanshi26679/Dipanshi-s-Portfolio/assets/142025236/114c9a47-c4b9-4b55-894f-91d28093ff73)# Project-05
 Portfolio website built in React
 
 
@@ -32,7 +32,7 @@ Build a React website in 24 hours to showcase the following:
 ## Homepage visuals
 
 
-![Imgur](C:\Users\Dipanshi\OneDrive\Pictures\Screenshots\first.png)
+![Imgur]([C:\Users\Dipanshi\OneDrive\Pictures\Screenshots\first.png](https://photos.google.com/photo/AF1QipM-M6p1HlIyEsz3fuLB-obLi7eTIARmqVQT-4ZN))
 ![Imgur](https://i.imgur.com/voIJ0AG.png?1)
 ![Imgur](https://i.imgur.com/xjHH6Hr.png?1)
 ![Imgur](https://i.imgur.com/3JJlqb9.png?1)
