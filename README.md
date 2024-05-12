@@ -28,17 +28,3 @@ Build a React website in 24 hours to showcase the following:
 * Babel
 
 
-
-## Homepage visuals
-
-
-![Imgur]([C:\Users\Dipanshi\OneDrive\Pictures\Screenshots\first.png](https://photos.google.com/photo/AF1QipM-M6p1HlIyEsz3fuLB-obLi7eTIARmqVQT-4ZN))
-![Imgur](https://i.imgur.com/voIJ0AG.png?1)
-![Imgur](https://i.imgur.com/xjHH6Hr.png?1)
-![Imgur](https://i.imgur.com/3JJlqb9.png?1)
-![Imgur](https://i.imgur.com/4MTPw56.png?1)
-![Imgur](https://i.imgur.com/dDprlF7.png?1)
-
-## Skill set visuals
-
-![Imgur](https://i.imgur.com/bVE2xqe.png?1)
